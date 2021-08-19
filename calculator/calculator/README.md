@@ -1,2 +1,0 @@
-# Calculator
-basic calculator layout
